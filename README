@@ -1,8 +1,12 @@
+It's traffic video counting tool,I just change some open source code and wrap them in qt,the core code is not written by me which i should say first.
+
 Build with qt 5.0
 
  config:
- u can config the tracking and counting system through the config button,otherwise it will be set to default value. And when u set once
- the setting will be stored in xml file.
+ 	u can config through the config button,otherwise it will be set to default value.At first time ,u need to draw the counting line.
+ And when u set once,the setting will be stored in config/xml file.
+
+ VehicleCounting.xml
  showOutput:
  	whether to imshow
  showAB; 
@@ -11,3 +15,7 @@ Build with qt 5.0
  	the background substractor module to use
  x0,y0:
  	the counting line coordinates
+
+
+demo:
+	open the dataset video file and play it
