@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/19/trunk/package_bgs/lb
+END
+LBAdaptiveSOM.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/trunk/package_bgs/lb/LBAdaptiveSOM.h
+END
+LBFuzzyGaussian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/16/trunk/package_bgs/lb/LBFuzzyGaussian.cpp
+END
+BGModelFuzzySom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModelFuzzySom.cpp
+END
+LBFuzzyAdaptiveSOM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/package_bgs/lb/LBFuzzyAdaptiveSOM.cpp
+END
+LBSimpleGaussian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/package_bgs/lb/LBSimpleGaussian.cpp
+END
+BGModelFuzzySom.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModelFuzzySom.h
+END
+LBFuzzyGaussian.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/package_bgs/lb/LBFuzzyGaussian.h
+END
+LBSimpleGaussian.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8/trunk/package_bgs/lb/LBSimpleGaussian.h
+END
+LBFuzzyAdaptiveSOM.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/package_bgs/lb/LBFuzzyAdaptiveSOM.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8/trunk/package_bgs/lb/Types.h
+END
+BGModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModel.cpp
+END
+BGModelGauss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModelGauss.cpp
+END
+BGModelMog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModelMog.cpp
+END
+BGModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModel.h
+END
+LBMixtureOfGaussians.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/trunk/package_bgs/lb/LBMixtureOfGaussians.cpp
+END
+BGModelMog.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/trunk/package_bgs/lb/BGModelMog.h
+END
+BGModelGauss.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModelGauss.h
+END
+LBMixtureOfGaussians.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/package_bgs/lb/LBMixtureOfGaussians.h
+END
+BGModelFuzzyGauss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModelFuzzyGauss.cpp
+END
+BGModelSom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModelSom.cpp
+END
+BGModelFuzzyGauss.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModelFuzzyGauss.h
+END
+LBAdaptiveSOM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/package_bgs/lb/LBAdaptiveSOM.cpp
+END
+BGModelSom.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8/trunk/package_bgs/lb/BGModelSom.h
+END

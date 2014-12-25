@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/28/trunk/package_bgs/tb
+END
+FuzzySugenoIntegral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/18/trunk/package_bgs/tb/FuzzySugenoIntegral.cpp
+END
+T2FMRF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/package_bgs/tb/T2FMRF.cpp
+END
+T2FMRF_UM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/22/trunk/package_bgs/tb/T2FMRF_UM.cpp
+END
+T2FGMM.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/22/trunk/package_bgs/tb/T2FGMM.h
+END
+PixelUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16/trunk/package_bgs/tb/PixelUtils.cpp
+END
+T2FGMM_UM.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/package_bgs/tb/T2FGMM_UM.h
+END
+FuzzySugenoIntegral.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/16/trunk/package_bgs/tb/FuzzySugenoIntegral.h
+END
+T2FMRF.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/22/trunk/package_bgs/tb/T2FMRF.h
+END
+T2FMRF_UM.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/package_bgs/tb/T2FMRF_UM.h
+END
+FuzzyChoquetIntegral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/trunk/package_bgs/tb/FuzzyChoquetIntegral.cpp
+END
+T2FGMM_UV.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/package_bgs/tb/T2FGMM_UV.cpp
+END
+PixelUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/16/trunk/package_bgs/tb/PixelUtils.h
+END
+FuzzyUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16/trunk/package_bgs/tb/FuzzyUtils.cpp
+END
+T2FMRF_UV.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/28/trunk/package_bgs/tb/T2FMRF_UV.cpp
+END
+T2FGMM_UV.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/package_bgs/tb/T2FGMM_UV.h
+END
+FuzzyChoquetIntegral.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/16/trunk/package_bgs/tb/FuzzyChoquetIntegral.h
+END
+FuzzyUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/16/trunk/package_bgs/tb/FuzzyUtils.h
+END
+T2FMRF_UV.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/package_bgs/tb/T2FMRF_UV.h
+END
+PerformanceUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/trunk/package_bgs/tb/PerformanceUtils.cpp
+END
+MRF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/package_bgs/tb/MRF.cpp
+END
+PerformanceUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/16/trunk/package_bgs/tb/PerformanceUtils.h
+END
+MRF.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/22/trunk/package_bgs/tb/MRF.h
+END
+T2FGMM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/package_bgs/tb/T2FGMM.cpp
+END
+T2FGMM_UM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/package_bgs/tb/T2FGMM_UM.cpp
+END

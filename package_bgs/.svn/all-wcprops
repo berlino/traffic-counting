@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/29/trunk/package_bgs
+END
+FrameDifferenceBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/25/trunk/package_bgs/FrameDifferenceBGS.cpp
+END
+FrameDifferenceBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/package_bgs/FrameDifferenceBGS.h
+END
+StaticFrameDifferenceBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/25/trunk/package_bgs/StaticFrameDifferenceBGS.cpp
+END
+GMG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/24/trunk/package_bgs/GMG.cpp
+END
+WeightedMovingMeanBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/25/trunk/package_bgs/WeightedMovingMeanBGS.cpp
+END
+AdaptiveBackgroundLearning.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/25/trunk/package_bgs/AdaptiveBackgroundLearning.cpp
+END
+StaticFrameDifferenceBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/package_bgs/StaticFrameDifferenceBGS.h
+END
+GMG.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/24/trunk/package_bgs/GMG.h
+END
+MixtureOfGaussianV1BGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/package_bgs/MixtureOfGaussianV1BGS.cpp
+END
+MixtureOfGaussianV2BGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/package_bgs/MixtureOfGaussianV2BGS.cpp
+END
+WeightedMovingMeanBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/package_bgs/WeightedMovingMeanBGS.h
+END
+AdaptiveBackgroundLearning.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8/trunk/package_bgs/AdaptiveBackgroundLearning.h
+END
+MixtureOfGaussianV1BGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/package_bgs/MixtureOfGaussianV1BGS.h
+END
+WeightedMovingVarianceBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/25/trunk/package_bgs/WeightedMovingVarianceBGS.cpp
+END
+MixtureOfGaussianV2BGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/package_bgs/MixtureOfGaussianV2BGS.h
+END
+IBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/package_bgs/IBGS.h
+END
+WeightedMovingVarianceBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/trunk/package_bgs/WeightedMovingVarianceBGS.h
+END

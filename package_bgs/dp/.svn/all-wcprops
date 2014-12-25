@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/22/trunk/package_bgs/dp
+END
+DPGrimsonGMMBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPGrimsonGMMBGS.cpp
+END
+DPWrenGABGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPWrenGABGS.cpp
+END
+DPMeanBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPMeanBGS.h
+END
+ZivkovicAGMM.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/package_bgs/dp/ZivkovicAGMM.h
+END
+AdaptiveMedianBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/trunk/package_bgs/dp/AdaptiveMedianBGS.h
+END
+MeanBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/package_bgs/dp/MeanBGS.cpp
+END
+DPEigenbackgroundBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPEigenbackgroundBGS.h
+END
+Bgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/package_bgs/dp/Bgs.h
+END
+DPPratiMediodBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPPratiMediodBGS.cpp
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8/trunk/package_bgs/dp/Image.cpp
+END
+GrimsonGMM.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/22/trunk/package_bgs/dp/GrimsonGMM.h
+END
+BgsParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/package_bgs/dp/BgsParams.h
+END
+DPZivkovicAGMMBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPZivkovicAGMMBGS.cpp
+END
+Eigenbackground.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/16/trunk/package_bgs/dp/Eigenbackground.cpp
+END
+WrenGA.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8/trunk/package_bgs/dp/WrenGA.h
+END
+DPMeanBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPMeanBGS.cpp
+END
+DPAdaptiveMedianBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPAdaptiveMedianBGS.h
+END
+PratiMediodBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8/trunk/package_bgs/dp/PratiMediodBGS.h
+END
+DPGrimsonGMMBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPGrimsonGMMBGS.h
+END
+ZivkovicAGMM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8/trunk/package_bgs/dp/ZivkovicAGMM.cpp
+END
+AdaptiveMedianBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/package_bgs/dp/AdaptiveMedianBGS.cpp
+END
+DPEigenbackgroundBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPEigenbackgroundBGS.cpp
+END
+DPWrenGABGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPWrenGABGS.h
+END
+GrimsonGMM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8/trunk/package_bgs/dp/GrimsonGMM.cpp
+END
+MeanBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8/trunk/package_bgs/dp/MeanBGS.h
+END
+WrenGA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/package_bgs/dp/WrenGA.cpp
+END
+DPPratiMediodBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPPratiMediodBGS.h
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/package_bgs/dp/Image.h
+END
+DPAdaptiveMedianBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPAdaptiveMedianBGS.cpp
+END
+DPZivkovicAGMMBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/trunk/package_bgs/dp/DPZivkovicAGMMBGS.h
+END
+Eigenbackground.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/package_bgs/dp/Eigenbackground.h
+END
+PratiMediodBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8/trunk/package_bgs/dp/PratiMediodBGS.cpp
+END

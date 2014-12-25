@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/16/trunk/package_bgs/jmo
+END
+OpenCvDataConversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/package_bgs/jmo/OpenCvDataConversion.h
+END
+BlobLibraryConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/package_bgs/jmo/BlobLibraryConfiguration.h
+END
+LocalBinaryPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/package_bgs/jmo/LocalBinaryPattern.h
+END
+BlobResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/trunk/package_bgs/jmo/BlobResult.cpp
+END
+blob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8/trunk/package_bgs/jmo/blob.cpp
+END
+BlobExtraction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/trunk/package_bgs/jmo/BlobExtraction.cpp
+END
+BGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8/trunk/package_bgs/jmo/BGS.h
+END
+BlobResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8/trunk/package_bgs/jmo/BlobResult.h
+END
+blob.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8/trunk/package_bgs/jmo/blob.h
+END
+MultiLayerBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/16/trunk/package_bgs/jmo/MultiLayerBGS.cpp
+END
+BlobExtraction.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/package_bgs/jmo/BlobExtraction.h
+END
+CMultiLayerBGS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8/trunk/package_bgs/jmo/CMultiLayerBGS.cpp
+END
+MultiLayerBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/16/trunk/package_bgs/jmo/MultiLayerBGS.h
+END
+CMultiLayerBGS.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/package_bgs/jmo/CMultiLayerBGS.h
+END
+BackgroundSubtractionAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/package_bgs/jmo/BackgroundSubtractionAPI.h
+END
+LocalBinaryPattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/package_bgs/jmo/LocalBinaryPattern.cpp
+END

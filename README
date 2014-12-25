@@ -1,0 +1,13 @@
+Build with qt 5.0
+
+ config:
+ u can config the tracking and counting system through the config button,otherwise it will be set to default value. And when u set once
+ the setting will be stored in xml file.
+ showOutput:
+ 	whether to imshow
+ showAB; 
+ 	the direction of the car 
+ module:
+ 	the background substractor module to use
+ x0,y0:
+ 	the counting line coordinates

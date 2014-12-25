@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/26/trunk/config
+END
+PreProcessor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/26/trunk/config/PreProcessor.xml
+END
+VideoCapture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/26/trunk/config/VideoCapture.xml
+END
+FrameProcessor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/26/trunk/config/FrameProcessor.xml
+END
